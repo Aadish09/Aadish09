@@ -1,1 +1,1 @@
-![Picture](BANNER.jpg)
+<img src="banner.jpg"/>
